@@ -102,8 +102,7 @@ while True:
     else:
         while True:
             try:
-                opcion == "S"
-                
+
                 # Pide confirmación antes de salir
                 verificacion = input("¿Seguro desea salir? Presione [1] para Sí o [2] para No: ")
                 
